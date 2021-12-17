@@ -68,6 +68,8 @@ terraform.rc
 .history
 .ionide
 
+*id_rsa*
+
 # Support for Project snippet scope
 !.vscode/*.code-snippets
 
